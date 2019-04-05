@@ -1,2 +1,0 @@
-This is a dummy file for your lottery contract address.
-Delete everything in this file and paste in your address, then rename this file into address.txt
